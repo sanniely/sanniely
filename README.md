@@ -2,7 +2,7 @@
 
 Eu sou a Sanny, e aqui é onde eu brinco com código e solto umas ideias meio fora da caixa. 🧠💻 Se curtir algo, chega junto, explora, ou só dá aquele alô. Sem pressa, sem pressão — a vibe aqui é de boas, tipo música num fim de tarde.
 
-No fim, sou só mias uma dev tentando não quebrar o código nem a cabeça!
+No fim, sou só mais uma dev tentando não quebrar o código nem a cabeça!
 
 
 ###
